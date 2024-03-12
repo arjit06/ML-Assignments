@@ -1,7 +1,7 @@
 # ML-Assignments
 
-## Assignment 1: Human Activity Recognition using Sensor Data through KNNs
-Utilized the unsupervised version of K-Nearest Neighbors (KNN) model to predict human activity by analyzing time series data from three distinct sensors: gyroscope, magnetometer, and accelerometer. Employed advanced techniques such as chunking and statistical feature descriptors for efficient feature extraction. Remarkably, achieved an accuracy of 55% solely through meticulous data preprocessing, without resorting to any supervised learning algorithms
+## Assignment 1: Physical Activity Classification using Sensor Data through KNNs
+Utilized the unsupervised version of the K-Nearest Neighbors (KNN) model to predict the physical activity being done by the human by analyzing time series data from three distinct sensors: gyroscope, magnetometer, and accelerometer. Employed advanced techniques such as chunking and statistical feature descriptors for efficient feature extraction. Remarkably, achieved an accuracy of 55% solely through meticulous data preprocessing, without resorting to any supervised learning algorithms
 
 Link for downloading datasets: <br>
 https://www.kaggle.com/competitions/unsupervised-learning-m2023 
